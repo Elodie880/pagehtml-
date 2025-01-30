@@ -1,0 +1,65 @@
+body {
+    background-color: #baced1;
+}
+img{
+    width: 80px;
+    border: 1px solid rgb(32, 31, 31);
+    padding:5px ;
+}
+h1, h2, h3 {
+        color: #352a2a;
+        font-weight: bolder;
+}
+
+.contact{
+    color: darkblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.presentation{
+   border: 2px solid #000; /* Bordure de 2 pixels, de style solide et de couleur noire */
+   padding: 10px;
+   border-radius:5px ;
+}
+
+h1{
+    border: 2px solid #000; 
+   padding: 10px;
+   border-radius: 5px; 
+   background-color: #f9f9f9
+}
+
+.experience{
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+#un{ 
+    font-style: italic;
+
+}
+
+.formation{
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.Compétences{
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.Langues{
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+#underline{
+    text-decoration :underline;
+
+}
